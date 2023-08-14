@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assessment2-thinkers.io/static/css/main.666dbd63.css",
+    "main.js": "/Assessment2-thinkers.io/static/js/main.845d5008.js",
+    "static/js/787.42f0e14d.chunk.js": "/Assessment2-thinkers.io/static/js/787.42f0e14d.chunk.js",
+    "index.html": "/Assessment2-thinkers.io/index.html",
+    "main.666dbd63.css.map": "/Assessment2-thinkers.io/static/css/main.666dbd63.css.map",
+    "main.845d5008.js.map": "/Assessment2-thinkers.io/static/js/main.845d5008.js.map",
+    "787.42f0e14d.chunk.js.map": "/Assessment2-thinkers.io/static/js/787.42f0e14d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666dbd63.css",
+    "static/js/main.845d5008.js"
+  ]
+}
